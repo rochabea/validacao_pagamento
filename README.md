@@ -6,3 +6,8 @@
     - Micro Empresa 80 horas a R$190 (multiplicar o número de atendimentos por carga horária e valor)
     - Pequena Empresa 110 horas a R$190 (multiplicar o número de atendimentos por carga horária e valor)
 - Após essa etapa, criar um consolidado pelos meses em uma nova aba
+
+CONSTRUINDO O CÓDIGO:
+Separado em duas etapas, concluídos e em execução:
+- Concluídos: iremos separar pela 'DATA DE CONCLUSÃO' do mês em que foram concluídos
+- Execução: iremos estipular duas planilhas, uma com a previsão de 90 dias da data de conclusão desde de seu início e outra com a previsão de 120 dias da data de conclusão desde seu aceite
