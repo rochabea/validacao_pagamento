@@ -1,5 +1,3 @@
-# validacao_pagamento
-
 # SOBRE O CÓDIGO: 
 
 Na planilha do relatório do SGT, na aba Atendimentos, pela coluna 'DATA DE CONCLUSÃO' será separado em abas em uma nova planilha dividida pelos seguintes meses: ATÉ MAIO/24, JUNHO/24, JULHO/24 e AGOSTO/24. Será criado um novo arquivo chamado 'Previsão de Pagamentos';
